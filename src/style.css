@@ -1,0 +1,20 @@
+img {
+  width: 60%;
+ display: block;
+ margin: 0 auto;
+ 
+}
+span{
+    display: block;
+    text-align: center;
+}
+.all-a{
+   display: flex;
+   justify-content:space-around; 
+  
+
+}
+.email{
+   text-align: center;
+    color: rgb(218, 6, 147);
+}

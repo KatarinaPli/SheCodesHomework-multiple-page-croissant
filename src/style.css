@@ -1,8 +1,16 @@
+*{
+ 
+ font-family: 'Pangolin', cursive;
+}
+h1{
+    font-family: 'Rubik Puddles', cursive; 
+    text-align: center;
+}
 img {
   width: 60%;
  display: block;
  margin: 0 auto;
- 
+ border-radius: 20px;
 }
 span{
     display: block;
@@ -11,6 +19,7 @@ span{
 .all-a{
    display: flex;
    justify-content:space-around; 
+  margin-top: 40px;
   
 
 }
